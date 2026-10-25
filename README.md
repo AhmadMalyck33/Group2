@@ -16,4 +16,3 @@ This repository includes a student profile feature.
 ## Workflow
 Create Branch → Develop → Commit → Push → Pull Request → Review → Merge
 
-Edited by Hanzla
