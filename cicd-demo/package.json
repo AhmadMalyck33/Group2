@@ -1,0 +1,12 @@
+
+{
+  "name": "student-profile-cicd-demo",
+  "version": "1.0.0",
+  "description": "Student profile website for a GitHub Actions CI/CD assignment",
+  "private": true,
+  "scripts": {
+    "lint": "node --check src/app.js && node --check tests/app.test.js && node --check scripts/build.js",
+    "test": "node --test",
+    "build": "node scripts/build.js"
+  }
+}
