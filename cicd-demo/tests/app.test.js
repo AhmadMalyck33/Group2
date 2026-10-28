@@ -30,6 +30,6 @@ test("CSS file contains webpage styling", () => {
 test("Application status function returns the expected message", () => {
   assert.equal(
     getApplicationStatus(),
-    "Application is working broken."
+    "Application is working correctly."
   );
 });
